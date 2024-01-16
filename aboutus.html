@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./aboutus.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Mochiy Pop One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Gordita:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="about-us">
+      <img
+        class="currease-logo-1"
+        alt=""
+        src="./public/currease-logo-1@2x.png"
+      />
+
+      <div class="header">
+        <div class="header-child"></div>
+        <img
+          class="currease-logo-11"
+          alt=""
+          src="./public/currease-logo-1@2x.png"
+        />
+
+        <div class="rectangle-parent" id="groupContainer">
+          <div class="group-child"></div>
+          <b class="shop">Shop</b>
+          <img class="vector-icon" alt="" src="./public/vector.svg" />
+        </div>
+        <div class="about-us1">About Us</div>
+        <div class="contact-us" id="contactUsText">Contact Us</div>
+        <div class="home" id="homeText">Home</div>
+      </div>
+      <img class="mask-group-icon" alt="" src="./public/mask-group@2x.png" />
+
+      <div class="as-a-retorted">
+        As a retorted curry base gravy produced particularly by keeping the
+        millennials in mind, “Currease”, unlike other instant alternatives to
+        home-cooked food, ensure to deliver locally produced fresh ingredients
+        and easy-to-follow recipes so that anyone can prepare a quality
+        home-cooked dish that does not compromise on time and well-being.
+      </div>
+      <div class="all-currease-products-container">
+        <p class="all-currease-products">
+          All Currease products are manufactured using “retort” technology.
+          Retorting is one of the major techniques used for the thermal
+          processing of food products that are packed either in semi-rigid
+          flexible laminates or in metal or alloy cans. The technology provides
+          the advantage of processing and packing the food together; which makes
+          it more commercially stable with safe and effective shelf life.
+        </p>
+      </div>
+      <div class="rectangle-group" id="groupContainer">
+        <div class="group-item"></div>
+        <b class="products">Products</b>
+        <img class="vector-icon1" alt="" src="./public/vector.svg" />
+      </div>
+      <div class="a-novel-product-container">
+        <p class="all-currease-products">A Novel Product</p>
+        <p class="in-the-food">In The Food Market.</p>
+      </div>
+      <img class="mask-group-icon1" alt="" src="./public/mask-group@2x.png" />
+
+      <img class="about-us-child" alt="" src="./public/group-3908.svg" />
+
+      <div class="rectangle-container">
+        <div class="group-inner"></div>
+        <div class="rectangle-div"></div>
+        <div class="customer-support">Customer Support</div>
+        <b class="b">+1 65695 545 65</b>
+        <b class="supportcantaricorpcom">support@cantaricorp.com</b>
+        <div class="group-parent">
+          <img class="group-icon" alt="" src="./public/group-190.svg" />
+
+          <img class="group-child1" alt="" src="./public/group-188.svg" />
+
+          <img class="group-child2" alt="" src="./public/group-189.svg" />
+
+          <img class="group-child3" alt="" src="./public/group-199.svg" />
+
+          <div class="terms-of-service">Terms of Service</div>
+          <div class="cantari-corp">© 2023 Cantari Corp.</div>
+          <div class="privacy-policy">Privacy Policy</div>
+        </div>
+        <div class="group-div" id="groupContainer1">
+          <div class="group-child4"></div>
+          <div class="home1">Home</div>
+        </div>
+        <div class="rectangle-parent1" id="groupContainer2">
+          <div class="group-child5"></div>
+          <div class="about-us2">About Us</div>
+        </div>
+        <div class="rectangle-parent2" id="groupContainer3">
+          <div class="group-child6"></div>
+          <div class="contact-us1">Contact Us</div>
+        </div>
+        <div class="rectangle-parent3" id="groupContainer4">
+          <div class="group-child7"></div>
+          <div class="shop1">Shop</div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+        function redirectToShop() {
+        
+        window.location.href = 'shop.html';
+      }
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+         redirectToShop()
+        });
+      }
+      
+      var contactUsText = document.getElementById("contactUsText");
+      if (contactUsText) {
+        contactUsText.addEventListener("click", function (e) {
+          window.location.href ='contact.html'
+        });
+      }
+      
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+            window.location.href ='index.html'
+        });
+      }
+      
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+            window.location.href ='index.html'
+        });
+      }
+      
+      var groupContainer2 = document.getElementById("groupContainer2");
+      if (groupContainer2) {
+        groupContainer2.addEventListener("click", function (e) {
+          window.location.href = "about.html";
+        });
+      }
+      
+      var groupContainer3 = document.getElementById("groupContainer3");
+      if (groupContainer3) {
+        groupContainer3.addEventListener("click", function (e) {
+            window.location.href ='contact.html'
+        });
+      }
+      
+      var groupContainer4 = document.getElementById("groupContainer4");
+      if (groupContainer4) {
+        groupContainer4.addEventListener("click", function (e) {
+            redirectToShop()
+        });
+      }
+      </script>
+  </body>
+</html>

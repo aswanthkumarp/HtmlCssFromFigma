@@ -1,0 +1,540 @@
+.currease-logo-1 {
+    position: absolute;
+    top: 966px;
+    left: calc(50% - 124px);
+    width: 248px;
+    height: 105px;
+    object-fit: cover;
+  }
+  .group-child,
+  .group-item {
+    position: absolute;
+    border-radius: var(--br-mini);
+  }
+  .group-child {
+    top: 0;
+    left: 0;
+    background-color: #dde4fd;
+    width: 1056px;
+    height: 350px;
+  }
+  .group-item {
+    top: 253px;
+    left: 22px;
+    background-color: var(--color-white);
+    width: 1010px;
+    height: 79px;
+  }
+  .customer-support {
+    position: absolute;
+    top: 55px;
+    left: calc(50% - 64px);
+    font-size: var(--font-size-xs);
+    font-family: var(--font-mochiy-pop-one);
+    color: rgba(24, 25, 51, 0.43);
+  }
+  .b,
+  .supportcantaricorpcom {
+    position: absolute;
+    top: 94px;
+    left: calc(50% - 74px);
+    font-size: var(--font-size-lgi);
+    color: var(--color-gray-100);
+  }
+  .supportcantaricorpcom {
+    top: 122px;
+    left: calc(50% - 125px);
+  }
+  .group-child1,
+  .group-child2,
+  .group-icon,
+  .group-inner {
+    position: absolute;
+    top: 0;
+    left: 765px;
+    width: 43px;
+    height: 43px;
+  }
+  .group-child1,
+  .group-child2,
+  .group-icon {
+    left: 816px;
+  }
+  .group-child1,
+  .group-child2 {
+    left: 867px;
+  }
+  .group-child2 {
+    left: 918px;
+  }
+  .cantari-corp,
+  .terms-of-service {
+    position: absolute;
+    top: 13px;
+    left: 365px;
+  }
+  .cantari-corp {
+    top: 12px;
+    left: 0;
+    font-size: 13px;
+    font-family: var(--font-gordita);
+  }
+  .group-parent,
+  .privacy-policy {
+    position: absolute;
+    top: 13px;
+    left: 495px;
+  }
+  .group-parent {
+    top: 273px;
+    left: 53px;
+    width: 961px;
+    height: 43px;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-200);
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-darkslateblue-200);
+    width: 81px;
+    height: 31px;
+  }
+  .home {
+    position: absolute;
+    top: 5px;
+    left: 19px;
+    font-weight: 600;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 188px;
+    left: 309px;
+    width: 81px;
+    height: 31px;
+    cursor: pointer;
+  }
+  .group-child3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-darkslateblue-200);
+    width: 101px;
+    height: 31px;
+  }
+  .about-us {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    font-weight: 600;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 188px;
+    left: 413px;
+    width: 101px;
+    height: 31px;
+    cursor: pointer;
+  }
+  .group-child4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-darkslateblue-200);
+    width: 112px;
+    height: 31px;
+  }
+  .contact-us {
+    position: absolute;
+    top: 5px;
+    left: 12.2px;
+    font-weight: 600;
+    display: inline-block;
+    width: 87.6px;
+  }
+  .group-child5,
+  .group-div {
+    position: absolute;
+    height: 31px;
+  }
+  .group-div {
+    top: 188px;
+    left: 537px;
+    width: 112px;
+    cursor: pointer;
+  }
+  .group-child5 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-darkslateblue-200);
+    width: 72px;
+  }
+  .shop {
+    position: absolute;
+    top: 5px;
+    left: 11px;
+    font-weight: 600;
+    display: inline-block;
+    width: 50px;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 188px;
+    left: 672px;
+    width: 72px;
+    height: 31px;
+    cursor: pointer;
+  }
+  .header-child,
+  .rectangle-parent {
+    position: absolute;
+    top: 1168px;
+    left: 83px;
+    width: 1056px;
+    height: 350px;
+  }
+  .header-child {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-mini);
+    background-color: var(--color-white);
+    box-shadow: 10px 7px 72px rgba(0, 81, 160, 0.11);
+    height: 82px;
+  }
+  .currease-logo-11 {
+    position: absolute;
+    top: 10px;
+    left: 26px;
+    width: 148px;
+    height: 63px;
+    object-fit: cover;
+  }
+  .group-child6 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 56.5px);
+    border-radius: var(--br-3xs);
+    background: linear-gradient(-56.23deg, #0051a0 43.75%, #198dff);
+    width: 113px;
+    height: 56px;
+  }
+  .shop1 {
+    position: absolute;
+    top: 17px;
+    left: 23px;
+    line-height: 21px;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 34.82%;
+    width: 15.71%;
+    top: 32.14%;
+    right: 20.57%;
+    bottom: 33.04%;
+    left: 63.72%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: 13px;
+    left: calc(50% + 399px);
+    width: 113px;
+    height: 56px;
+    cursor: pointer;
+    color: var(--color-white);
+  }
+  .about-us1,
+  .contact-us1 {
+    top: 31px;
+    line-height: 21px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .about-us1 {
+    position: absolute;
+    left: 707px;
+  }
+  .contact-us1 {
+    left: 807px;
+  }
+  .contact-us1,
+  .header,
+  .home1 {
+    position: absolute;
+  }
+  .home1 {
+    top: 30px;
+    left: 632px;
+    line-height: 21px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .header {
+    top: 29px;
+    left: 112px;
+    width: 1056px;
+    height: 82px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-100);
+  }
+  .group-child7 {
+    border-radius: 50px;
+    background: linear-gradient(
+      -40.89deg,
+      rgba(0, 81, 160, 0.13) 30.89%,
+      rgba(0, 81, 160, 0)
+    );
+  }
+  .group-child7,
+  .layer-2-icon,
+  .rectangle-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 521px;
+    height: 602px;
+  }
+  .layer-2-icon {
+    top: 42.45px;
+    left: 52px;
+    width: 380.66px;
+    height: 478.28px;
+    object-fit: contain;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 505px;
+    left: 417px;
+    border-radius: 50%;
+    background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(0, 78, 150, 0.26),
+      rgba(106, 38, 0, 0)
+    );
+    filter: blur(12px);
+    width: 240px;
+    height: 32px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .group-container {
+    position: absolute;
+    top: 194px;
+    left: 112px;
+    width: 521px;
+    height: 602px;
+  }
+  .group-child8 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 73.5px);
+    border-radius: var(--br-3xs);
+    background: linear-gradient(-56.23deg, #0051a0 43.75%, #198dff);
+    width: 147px;
+    height: 56px;
+  }
+  .buy-now {
+    position: absolute;
+    top: 17px;
+    left: 25px;
+    line-height: 21px;
+  }
+  .vector-icon1 {
+    position: absolute;
+    height: 33.1%;
+    width: 12.88%;
+    top: 33.7%;
+    right: 15.04%;
+    bottom: 33.19%;
+    left: 72.08%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  .rectangle-parent3 {
+    position: absolute;
+    top: 566px;
+    left: calc(50% + 38.5px);
+    width: 147px;
+    height: 56px;
+    cursor: pointer;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+  }
+  .group-child9 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-darkslateblue-200);
+    width: 63px;
+    height: 27px;
+  }
+  .new {
+    position: absolute;
+    top: 6px;
+    left: calc(50% - 11.5px);
+    font-weight: 600;
+  }
+  .rectangle-parent4 {
+    position: absolute;
+    top: 38px;
+    left: 577px;
+    width: 63px;
+    height: 27px;
+    font-size: var(--font-size-2xs);
+    color: var(--color-darkslateblue-100);
+  }
+  .group-child10 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-darkslateblue-200);
+    width: 135px;
+    height: 27px;
+  }
+  .back-to-products {
+    position: absolute;
+    top: 5px;
+    left: calc(50% - 35.5px);
+    font-weight: 600;
+  }
+  .vector-icon2 {
+    position: absolute;
+    height: 33.33%;
+    width: 8.15%;
+    top: 33.33%;
+    right: 81.48%;
+    bottom: 33.33%;
+    left: 10.37%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  .rectangle-parent5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 135px;
+    height: 27px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+  }
+  .duck-roast-instant {
+    position: absolute;
+    top: 81px;
+    left: 577px;
+    font-size: 33px;
+    display: inline-block;
+    color: var(--color-gray-100);
+    text-align: left;
+    width: 500px;
+  }
+  .description,
+  .ingrendients {
+    letter-spacing: 0.02em;
+    line-height: 15px;
+    font-weight: 600;
+  }
+  .description {
+    position: absolute;
+    top: 147px;
+    left: 578px;
+  }
+  .ingrendients {
+    position: relative;
+  }
+  .nutrisi {
+    margin-bottom: 0;
+  }
+  .nutrisi-vitamin-e-protein {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-base);
+  }
+  .nutrisi-vitamin-e-container {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 177.45%;
+    font-weight: 300;
+    text-align: left;
+    display: inline-block;
+    width: 418px;
+  }
+  .ingrendients-parent {
+    position: absolute;
+    top: 456px;
+    left: 578px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 11px;
+  }
+  .frame-child,
+  .frame-item {
+    position: relative;
+    border-radius: var(--br-sm-6);
+    width: 70.73px;
+    height: 72.09px;
+    object-fit: cover;
+  }
+  .frame-item {
+    width: 59.85px;
+    height: 59.85px;
+  }
+  .frame-div {
+    position: absolute;
+    top: 353px;
+    left: 585px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 31.28px;
+  }
+  .makanan-yang-lengkap-container {
+    position: absolute;
+    top: 173px;
+    left: 577px;
+    letter-spacing: 0.02em;
+    line-height: 177.45%;
+    font-weight: 300;
+    text-align: left;
+    display: inline-block;
+    width: 418px;
+  }
+  .group-parent1 {
+    position: absolute;
+    top: 158px;
+    left: calc(50% - 458px);
+    width: 1077px;
+    height: 622px;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+  }
+  .product {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1537px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-mini);
+    color: var(--color-darkslateblue-100);
+    font-family: var(--font-open-sans);
+  }
+  

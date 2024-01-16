@@ -1,0 +1,973 @@
+.group-2-836 {
+   position: absolute;
+   top: 34.6px;
+   left: 20.76px;
+   width: 1404.76px;
+   height: 1408.22px;
+   object-fit: cover;
+ }
+ .frame,
+ .frame-wrapper {
+   position: absolute;
+   top: 51.9px;
+   left: 51.9px;
+   width: 1453.2px;
+   height: 1453.2px;
+   overflow: hidden;
+ }
+ .frame-wrapper {
+   top: 609px;
+   left: -138px;
+   width: 1557px;
+   height: 647px;
+   mix-blend-mode: luminosity;
+ }
+ .home-child {
+   position: absolute;
+   top: 550px;
+   left: calc(50% - 639px);
+   width: 1280px;
+   height: 699.5px;
+ }
+ .home-inner,
+ .home-item {
+   position: absolute;
+   top: 531px;
+   left: 92px;
+   width: 253px;
+   height: 315px;
+ }
+ .home-inner {
+   top: 413.18px;
+   left: 821.05px;
+   width: 320.9px;
+   height: 398.63px;
+   object-fit: contain;
+ }
+ .ellipse-div,
+ .home-child1,
+ .home-child2 {
+   position: absolute;
+   border-radius: 50%;
+   filter: blur(8px);
+   width: 135px;
+   height: 18px;
+ }
+ .ellipse-div {
+   top: 775px;
+   left: 144px;
+   background: radial-gradient(
+     50% 50%at 50% 50%,
+     rgba(0, 0, 0, 0.73),
+     transparent
+   );
+ }
+ .home-child1,
+ .home-child2 {
+   top: 724px;
+   left: 1054px;
+   background: radial-gradient(
+     50% 50%at 50% 50%,
+     rgba(0, 0, 0, 0.71),
+     transparent
+   );
+   transform: rotate(180deg);
+   transform-origin: 0 0;
+ }
+ .home-child2 {
+   top: 334px;
+   left: 874px;
+   width: 65px;
+   height: 8px;
+ }
+ .layer-2-icon,
+ .layer-4-icon {
+   position: absolute;
+   top: 474px;
+   left: 135px;
+   width: 210.11px;
+   height: 305.16px;
+   object-fit: contain;
+ }
+ .layer-2-icon {
+   top: 327px;
+   left: 847px;
+   width: 314.23px;
+   height: 406.16px;
+ }
+ .products {
+   color: var(--color-darkslateblue-100);
+ }
+ .products-within {
+   margin: 0;
+ }
+ .products-within-your-container {
+   position: absolute;
+   top: 889px;
+   left: calc(50% - 192px);
+   font-size: var(--font-size-24xl);
+   line-height: 54px;
+   font-family: var(--font-mochiy-pop-one);
+   color: var(--color-gray-100);
+ }
+ .wake-up-your-container {
+   position: relative;
+   line-height: 88px;
+   white-space: pre-wrap;
+   z-index: 0;
+ }
+ .emo-1-icon {
+   position: absolute;
+   margin: 0 !important;
+   top: 7px;
+   left: 570px;
+   width: 75.67px;
+   height: 74.92px;
+   object-fit: contain;
+   z-index: 1;
+ }
+ .wake-up-your-taste-buds-with-u-parent {
+   position: absolute;
+   top: 260px;
+   left: 230px;
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+   justify-content: flex-start;
+   gap: 10px;
+   font-size: 64px;
+   color: var(--color-gray-100);
+   font-family: var(--font-mochiy-pop-one);
+ }
+ .group-icon,
+ .home-child3 {
+   position: absolute;
+   top: 552px;
+   left: 126px;
+   width: 233px;
+   height: 214px;
+ }
+ .home-child3 {
+   top: 474px;
+   left: 823px;
+   width: 220px;
+   height: 277px;
+   object-fit: contain;
+ }
+ .group-child,
+ .vector-icon {
+   position: absolute;
+   top: 751px;
+   left: 135px;
+   width: 6px;
+   height: 6px;
+ }
+ .group-child {
+   top: 0;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-darkslateblue-200);
+   width: 234px;
+   height: 34px;
+ }
+ .unique-curry-powders {
+   position: absolute;
+   top: 6px;
+   left: calc(50% - 112px);
+   text-transform: uppercase;
+   font-weight: 600;
+ }
+ .rectangle-parent {
+   position: absolute;
+   top: 215px;
+   left: 481px;
+   width: 234px;
+   height: 34px;
+ }
+ .group-item {
+   position: absolute;
+   top: -4px;
+   left: calc(50% - 229px);
+   border-radius: var(--br-mini);
+   background-color: var(--color-white);
+   box-shadow: 0 26px 72px rgba(0, 81, 160, 0.12);
+   border: 4px solid rgba(0, 81, 160, 0.29);
+   box-sizing: border-box;
+   width: 458px;
+   height: 79px;
+ }
+ .group-inner {
+   position: absolute;
+   top: 7px;
+   left: 365px;
+   border-radius: var(--br-3xs);
+   background: linear-gradient(-56.23deg, #0051a0 43.75%, #198dff);
+   width: 67px;
+   height: 56px;
+ }
+ .vector-icon1 {
+   position: absolute;
+   height: 12.58%;
+   width: 3.85%;
+   top: 30.3%;
+   right: 10.86%;
+   bottom: 57.12%;
+   left: 85.28%;
+   max-width: 100%;
+   overflow: hidden;
+   max-height: 100%;
+   object-fit: contain;
+ }
+ .select-province {
+   position: absolute;
+   top: 24px;
+   left: 54px;
+   font-weight: 600;
+ }
+ .rectangle-group {
+   position: absolute;
+   top: 1072px;
+   left: calc(50% - 225px);
+   width: 450px;
+   height: 71px;
+   font-size: var(--font-size-base);
+   color: #666;
+ }
+ .layer-5-icon,
+ .layer-6-icon {
+   position: absolute;
+   top: 1187.8px;
+   left: -99.01px;
+   width: 263.03px;
+   height: 288.66px;
+   object-fit: contain;
+ }
+ .layer-6-icon {
+   top: 1096px;
+   left: 938px;
+   width: 103.07px;
+   height: 118.96px;
+ }
+ .rectangle-div {
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: var(--br-xl);
+   background-color: var(--color-gray-200);
+   box-shadow: 0 26px 72px rgba(0, 81, 160, 0.12);
+   width: 382px;
+   height: 483px;
+ }
+ .duck-roast-instant-container {
+   position: absolute;
+   top: 370px;
+   left: 39px;
+   font-size: var(--font-size-lgi);
+   line-height: 21px;
+   color: var(--color-gray-100);
+   text-align: left;
+ }
+ .group-child1 {
+   position: absolute;
+   top: 28px;
+   left: 20px;
+   border-radius: var(--br-xl);
+   background-color: var(--color-lavender-100);
+   width: 323px;
+   height: 324px;
+ }
+ .group-child2,
+ .group-child3 {
+   position: absolute;
+   top: 105px;
+   left: 49px;
+   width: 266px;
+   height: 193px;
+ }
+ .group-child3 {
+   top: 380.61px;
+   left: 259.43px;
+   width: 65.13px;
+   height: 65.13px;
+   object-fit: contain;
+ }
+ .group-child4 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-darkslateblue-200);
+   width: 63px;
+   height: 27px;
+ }
+ .g {
+   position: absolute;
+   top: 6px;
+   left: calc(50% - 17.5px);
+   font-weight: 600;
+ }
+ .group-child5,
+ .group-div {
+   position: absolute;
+   top: 425px;
+   left: 39px;
+   width: 63px;
+   height: 27px;
+ }
+ .group-child5 {
+   top: 0;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-white);
+ }
+ .new {
+   position: absolute;
+   top: 6px;
+   left: calc(50% - 25.5px);
+   font-weight: 600;
+ }
+ .rectangle-parent1 {
+   position: absolute;
+   top: 44px;
+   left: 244px;
+   width: 63px;
+   height: 27px;
+ }
+ .rectangle-container {
+   position: absolute;
+   top: 0;
+   left: 479px;
+   width: 382px;
+   height: 483px;
+   cursor: pointer;
+ }
+ .group-child6,
+ .group-child7 {
+   position: absolute;
+   border-radius: var(--br-xl);
+ }
+ .group-child6 {
+   top: 0;
+   left: 0;
+   background-color: var(--color-gray-200);
+   width: 382px;
+   height: 483px;
+ }
+ .group-child7 {
+   top: 28px;
+   left: 20px;
+   background-color: #ddfdf0;
+   width: 323px;
+   height: 324px;
+ }
+ .group-child8 {
+   position: absolute;
+   top: 90px;
+   left: 53px;
+   width: 258px;
+   height: 223px;
+ }
+ .rectangle-parent2 {
+   position: absolute;
+   top: 149px;
+   left: 0;
+   width: 382px;
+   height: 483px;
+   cursor: pointer;
+ }
+ .group-child13 {
+   position: absolute;
+   top: 28px;
+   left: 20px;
+   border-radius: var(--br-xl);
+   background-color: #f7fddd;
+   width: 323px;
+   height: 324px;
+ }
+ .group-child14,
+ .group-child15 {
+   position: absolute;
+   top: 101px;
+   left: 80px;
+   width: 202px;
+   height: 201px;
+ }
+ .group-child15 {
+   top: 379.68px;
+   left: 258.5px;
+   width: 66.06px;
+   height: 66.06px;
+   object-fit: contain;
+ }
+ .rectangle-parent5 {
+   position: absolute;
+   top: 781px;
+   left: 0;
+   width: 382px;
+   height: 483px;
+   cursor: pointer;
+ }
+ .kerala-chicken-roast-container {
+   position: absolute;
+   top: 370px;
+   left: 39px;
+   line-height: 21px;
+ }
+ .group-child19 {
+   position: absolute;
+   top: 28px;
+   left: 20px;
+   border-radius: var(--br-xl);
+   background-color: #f2e7ff;
+   width: 323px;
+   height: 324px;
+ }
+ .group-child20 {
+   position: absolute;
+   top: 103px;
+   left: 55px;
+   width: 254px;
+   height: 196px;
+ }
+ .rectangle-parent9 {
+   position: absolute;
+   top: 425px;
+   left: 39px;
+   width: 63px;
+   height: 27px;
+   text-align: center;
+   font-size: var(--font-size-2xs);
+   color: var(--color-darkslateblue-100);
+ }
+ .rectangle-parent8 {
+   position: absolute;
+   top: 632px;
+   left: 479px;
+   width: 382px;
+   height: 483px;
+   cursor: pointer;
+   text-align: left;
+   font-size: var(--font-size-lgi);
+   color: var(--color-gray-100);
+ }
+ .group-child23 {
+   position: absolute;
+   top: 1.6px;
+   left: calc(50% - 98.5px);
+   border-radius: var(--br-3xs);
+   background: linear-gradient(-56.23deg, #0051a0 43.75%, #198dff);
+   width: 197px;
+   height: 56px;
+ }
+ .more-products {
+   position: absolute;
+   top: 18.6px;
+   left: 35px;
+   line-height: 21px;
+ }
+ .vector-icon2 {
+   position: absolute;
+   height: 32.48%;
+   width: 8.73%;
+   top: 0;
+   right: 14.79%;
+   bottom: 67.52%;
+   left: 76.48%;
+   max-width: 100%;
+   overflow: hidden;
+   max-height: 100%;
+   object-fit: contain;
+ }
+ .rectangle-parent10 {
+   position: absolute;
+   top: 1329.4px;
+   left: calc(50% - 122.5px);
+   width: 197px;
+   height: 57.6px;
+   cursor: pointer;
+   text-align: left;
+   font-size: var(--font-size-base);
+   color: var(--color-white);
+ }
+ .group-parent {
+   position: absolute;
+   top: 1288px;
+   left: 181px;
+   width: 861px;
+   height: 1387px;
+   font-size: var(--font-size-2xs);
+ }
+ .with-favorite-recipe {
+   color: var(--color-gray-100);
+ }
+ .cook-with-favorite-container {
+   position: absolute;
+   top: 0;
+   left: calc(50% - 336px);
+   font-size: var(--font-size-24xl);
+   line-height: 54px;
+   text-align: center;
+ }
+ .group-child24 {
+   position: absolute;
+   top: 134px;
+   left: 0;
+   border-radius: var(--br-mini);
+   background-color: var(--color-darkslateblue-100);
+   width: 521px;
+   height: 347px;
+ }
+ .mask-group-icon,
+ .mask-group-icon1 {
+   position: absolute;
+   top: 134px;
+   left: 480px;
+   width: 252px;
+   height: 347px;
+   object-fit: cover;
+ }
+ .mask-group-icon1 {
+   left: 720px;
+ }
+ .group-child25 {
+   position: absolute;
+   height: 9.08%;
+   width: 4.13%;
+   top: 54.53%;
+   right: 11.64%;
+   bottom: 36.4%;
+   left: 84.23%;
+   max-width: 100%;
+   overflow: hidden;
+   max-height: 100%;
+ }
+ .step-01,
+ .step-02,
+ .step-03 {
+   position: absolute;
+   top: 170px;
+   left: 39px;
+   line-height: 21px;
+   color: var(--color-white);
+ }
+ .step-02,
+ .step-03 {
+   left: 191px;
+   color: var(--color-gray-300);
+ }
+ .step-03 {
+   left: 344px;
+ }
+ .group-child26,
+ .group-child27,
+ .line-icon {
+   position: absolute;
+   top: 183px;
+   left: 124px;
+   max-height: 100%;
+   width: 63px;
+ }
+ .group-child26,
+ .group-child27 {
+   left: 279px;
+ }
+ .group-child27 {
+   left: 432px;
+   width: 21px;
+ }
+ .group-child28 {
+   position: absolute;
+   top: 159px;
+   left: 401px;
+   background: linear-gradient(269.88deg, #0051a0, rgba(0, 81, 160, 0.04));
+   width: 71px;
+   height: 45px;
+ }
+ .prepared-with-curreases {
+   top: 223px;
+   left: 40px;
+   font-size: var(--font-size-base);
+   font-weight: 600;
+   color: var(--color-white);
+   display: inline-block;
+   width: 444px;
+   height: 117px;
+ }
+ .honey-can-be,
+ .prepared-with-curreases,
+ .yummy-duck-roast {
+   position: absolute;
+   line-height: 28.5px;
+   font-family: var(--font-open-sans);
+ }
+ .honey-can-be {
+   top: 353px;
+   left: 40px;
+   font-size: var(--font-size-base);
+   font-weight: 600;
+   color: var(--color-white);
+   display: inline-block;
+   width: 444px;
+   height: 72px;
+ }
+ .yummy-duck-roast {
+   top: 99px;
+   left: 16px;
+   font-size: 18px;
+ }
+ .group-child29 {
+   position: absolute;
+   top: 12.36px;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-darkslateblue-200);
+   width: 111px;
+   height: 28px;
+ }
+ .next-recipe {
+   position: absolute;
+   top: 17.36px;
+   left: calc(50% - 54.5px);
+   font-weight: 600;
+   display: inline-block;
+   width: 78px;
+   height: 14px;
+ }
+ .vector-icon3 {
+   position: absolute;
+   height: 22.13%;
+   width: 3.29%;
+   top: 0;
+   right: 30.29%;
+   bottom: 77.87%;
+   left: 66.42%;
+   max-width: 100%;
+   overflow: hidden;
+   max-height: 100%;
+ }
+ .rectangle-parent11 {
+   position: absolute;
+   top: 86.64px;
+   left: 203px;
+   width: 111px;
+   height: 40.36px;
+   font-size: var(--font-size-xs);
+   font-family: var(--font-open-sans);
+ }
+ .cook-with-favorite-recipe-parent {
+   position: absolute;
+   top: 2794px;
+   left: calc(50% - 472px);
+   width: 972px;
+   height: 481px;
+   text-align: left;
+   font-size: var(--font-size-lgi);
+   font-family: var(--font-mochiy-pop-one);
+ }
+ .header-child {
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: var(--br-mini);
+   background-color: var(--color-white);
+   box-shadow: 10px 7px 72px rgba(0, 81, 160, 0.11);
+   width: 1056px;
+   height: 82px;
+ }
+ .currease-logo-1 {
+   position: absolute;
+   top: 10px;
+   left: 26px;
+   width: 148px;
+   height: 63px;
+   object-fit: cover;
+ }
+ .group-child30 {
+   position: absolute;
+   top: 0;
+   left: calc(50% - 56.5px);
+   border-radius: var(--br-3xs);
+   background: linear-gradient(-56.23deg, #0051a0 43.75%, #198dff);
+   width: 113px;
+   height: 56px;
+ }
+ .shop {
+   position: absolute;
+   top: 17px;
+   left: 37px;
+   line-height: 21px;
+ }
+ .vector-icon4 {
+   position: absolute;
+   height: 34.55%;
+   width: 14.33%;
+   top: 31.32%;
+   right: 12.4%;
+   bottom: 34.13%;
+   left: 73.26%;
+   max-width: 100%;
+   overflow: hidden;
+   max-height: 100%;
+ }
+ .rectangle-parent12 {
+   position: absolute;
+   top: 13px;
+   left: calc(50% + 291px);
+   width: 113px;
+   height: 56px;
+   cursor: pointer;
+   color: var(--color-white);
+ }
+ .about-us,
+ .contact-us {
+   top: 31px;
+   line-height: 21px;
+   font-weight: 600;
+   cursor: pointer;
+ }
+ .about-us {
+   position: absolute;
+   left: 633px;
+ }
+ .contact-us {
+   left: 723px;
+ }
+ .contact-us,
+ .header,
+ .home1 {
+   position: absolute;
+ }
+ .home1 {
+   top: 30px;
+   left: 566px;
+   line-height: 21px;
+   font-weight: 600;
+   color: var(--color-darkslateblue-100);
+ }
+ .header {
+   top: 29px;
+   left: 112px;
+   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+   width: 1056px;
+   height: 82px;
+   text-align: left;
+   font-size: var(--font-size-base);
+   color: var(--color-gray-100);
+ }
+ .group-child31,
+ .group-child32 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: var(--br-mini);
+   background-color: var(--color-lavender-100);
+   width: 1056px;
+   height: 350px;
+ }
+ .group-child32 {
+   top: 253px;
+   left: 22px;
+   background-color: var(--color-white);
+   width: 1010px;
+   height: 79px;
+ }
+ .customer-support {
+   position: absolute;
+   top: 55px;
+   left: calc(50% - 120px);
+   font-size: var(--font-size-xs);
+   font-family: var(--font-mochiy-pop-one);
+   color: rgba(38, 48, 64, 0.43);
+ }
+ .b,
+ .supportcantaricorpcom {
+   position: absolute;
+   top: 94px;
+   left: calc(50% - 130px);
+   font-size: var(--font-size-lgi);
+   color: var(--color-darkslategray-100);
+ }
+ .supportcantaricorpcom {
+   top: 122px;
+   left: calc(50% - 181px);
+ }
+ .group-child33,
+ .group-child34 {
+   position: absolute;
+   top: 0;
+   left: 681px;
+   width: 43px;
+   height: 61.32px;
+ }
+ .group-child34 {
+   left: 732px;
+ }
+ .group-child35,
+ .group-child36 {
+   position: absolute;
+   top: 0.99px;
+   left: 773px;
+   width: 43px;
+   height: 60.33px;
+ }
+ .group-child36 {
+   top: 18.32px;
+   left: 816px;
+   height: 43px;
+ }
+ .cantari-corp,
+ .terms-of-service {
+   position: absolute;
+   top: 31.32px;
+   left: 327px;
+ }
+ .cantari-corp {
+   top: 30.32px;
+   left: 0;
+   font-size: 13px;
+   font-family: var(--font-gordita);
+ }
+ .group-container,
+ .privacy-policy {
+   position: absolute;
+   top: 31.32px;
+   left: 439px;
+ }
+ .group-container {
+   top: 254.68px;
+   left: 53px;
+   width: 859px;
+   height: 61.32px;
+   font-size: var(--font-size-sm);
+   color: var(--color-gray-400);
+ }
+ .group-child37 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-darkslateblue-200);
+   width: 81px;
+   height: 31px;
+ }
+ .home2 {
+   position: absolute;
+   top: 5px;
+   left: 19px;
+   font-weight: 600;
+ }
+ .group-child38,
+ .rectangle-parent14 {
+   position: absolute;
+   top: 188px;
+   left: 281px;
+   width: 81px;
+   height: 31px;
+ }
+ .group-child38 {
+   top: 0;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-darkslateblue-200);
+   width: 101px;
+ }
+ .about-us1 {
+   position: absolute;
+   top: 5px;
+   left: 9px;
+   font-weight: 600;
+ }
+ .rectangle-parent15 {
+   position: absolute;
+   top: 188px;
+   left: 375px;
+   width: 101px;
+   height: 31px;
+   cursor: pointer;
+ }
+ .group-child39 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-darkslateblue-200);
+   width: 112px;
+   height: 31px;
+ }
+ .contact-us1 {
+   position: absolute;
+   top: 5px;
+   left: 12.2px;
+   font-weight: 600;
+   display: inline-block;
+   width: 87.6px;
+ }
+ .rectangle-parent16 {
+   position: absolute;
+   top: 188px;
+   left: 481px;
+   width: 112px;
+   height: 31px;
+   cursor: pointer;
+ }
+ .group-child40 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: var(--br-11xl);
+   background-color: var(--color-darkslateblue-200);
+   width: 72px;
+   height: 31px;
+ }
+ .shop1 {
+   position: absolute;
+   top: 5px;
+   left: 11px;
+   font-weight: 600;
+   display: inline-block;
+   width: 50px;
+ }
+ .rectangle-parent17 {
+   position: absolute;
+   top: 188px;
+   left: 606px;
+   width: 72px;
+   height: 31px;
+   cursor: pointer;
+ }
+ .rectangle-parent13 {
+   position: absolute;
+   top: 3652px;
+   left: 113px;
+   width: 1056px;
+   height: 350px;
+ }
+ .currease-logo-11 {
+   position: absolute;
+   top: 3466px;
+   left: calc(50% - 124px);
+   width: 248px;
+   height: 105px;
+   object-fit: cover;
+ }
+ .rectangle-icon {
+   position: absolute;
+   top: 2832px;
+   left: 137px;
+   border-radius: var(--br-mini);
+   width: 557px;
+   height: 476.91px;
+   object-fit: contain;
+ }
+ .home {
+   position: relative;
+   background-color: var(--color-white);
+   width: 100%;
+   height: 3994px;
+   overflow: hidden;
+   text-align: center;
+   font-size: var(--font-size-mini);
+   color: var(--color-darkslateblue-100);
+   font-family: var(--font-open-sans);
+ }
+ 
